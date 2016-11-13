@@ -1,0 +1,1 @@
+c:\users\codevalue\documents\visual studio 2015\Projects\buildAssigment\buildAssigment\bin\Debug\buildAssigment.exe.config
